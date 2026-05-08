@@ -19,3 +19,4 @@ It works well on old laptops
 It is based on Ubuntu, so there are many tutorials
 
 I downloaded the ISO file : lubuntu-22.04.4-desktop-amd64.iso
+Dạo này không làm được gì bận thi quá đii
